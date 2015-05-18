@@ -1,0 +1,10 @@
+Package: DoOR.misc
+Type: Package
+Title: DoOR helper functions
+Version: 0.1
+Date: 2015-05-18
+Author: daniel@muench.bio
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: collection of misc. DoOR functions not included in the main package
+License: GPL-3
+LazyData: TRUE
